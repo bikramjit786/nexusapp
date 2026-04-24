@@ -1,0 +1,20 @@
+{
+  "overview": "NexusApp is a dark-themed creator hub web app with 4 tabs: AI Writer for generating stories and lyrics, a Marketplace for digital goods, a Channel browser for subscribing to top creators, and a Profile screen. Built with a sleek black and red accent design.",
+  "features": [
+    "AI Writer with prompt-based story/lyric generation",
+    "Marketplace with product grid and search",
+    "Channel browser with subscriber counts and subscribe buttons",
+    "User profile with stats and account settings",
+    "Dark theme with red accent colors throughout",
+    "Bottom tab navigation"
+  ],
+  "category": "social-creator-tools",
+  "tags": [
+    "ai",
+    "creator",
+    "marketplace",
+    "dark-theme",
+    "dashboard"
+  ],
+  "last_updated": "2026-04-23T17:25:03.677Z"
+}
